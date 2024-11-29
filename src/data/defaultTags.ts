@@ -21,4 +21,5 @@ export const defaultTags: Tag[] = [
   { id: 'heap', name: 'Heap' },
   { id: 'graph', name: 'Graph' },
   { id: 'linked-list', name: 'Linked List' },
+  { id: 'LeetCode', name: 'LeetCode' },
 ];
